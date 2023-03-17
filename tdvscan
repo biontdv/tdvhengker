@@ -1,0 +1,56 @@
+#!/bin/sh
+
+#help function
+Help(){
+    echo '*===================================================================================*'
+    echo '* Example Usage: tdvscan -i 127.0.0.1 -e eth0 -r 500 -n "-sV -O"                    *'
+    echo '* Argument                                                                          *'
+    echo '* -i      IP Address (127.0.0.1)                                                    *'
+    echo '* -e      Network Interface (eth0,tun0,wlan0,..). default is tun0                   *'
+    echo '* -r      Rate (500,600,...). default is 500                                        *'
+    echo '* -n      Nmap Argument (-sV -A -O -sS ...). -Pn is already in argument             *'
+    echo '* -h      Help Menu                                                                 *'
+    echo '*===================================================================================*'
+}
+
+#start time calculation
+START=$(date +%s)
+
+#default value arg
+interface="tun0"
+rate=500
+na=""
+
+#argument
+while getopts i:e:r:n:h flag
+do
+    case "${flag}" in
+    i) ip=${OPTARG};;
+    e) interface=${OPTARG};;
+    r) rate=${OPTARG};;
+    n) na=${OPTARG};;
+    h) Help exit;;
+    esac
+done
+
+
+if [ -z "$ip"]
+then
+    Help
+    exit
+else
+    #scanning process using masscan & nmap
+    PORT=$(sudo masscan --rate $rate -p1-65535 -e $interface $ip | grep -o -P "(?<=open port\s)\d+" | tr '\n' ', ')
+    echo "====================================================================================="
+    echo "Port Open: $PORT"
+    echo "====================================================================================="
+    sudo nmap $ip -p $PORT -Pn $na
+fi
+
+
+#end time calculation
+END=$(date +%s)
+echo -n "Scan Duration: "
+echo $((END-START)) | awk '{print int($1/60)":"int($1%60)}'
+
+
