@@ -11,7 +11,7 @@ tdvhunt is a script to perform post exploitation (privilege escalation & credent
 3.  run the tdvhunt.ps1 in powershell (run as admin for credential hunting).
 `. .\tdvhunt.ps1`
 
-![](Animation.gif)
+![](demo/Animation.gif)
 &nbsp;
 
 # Feature
