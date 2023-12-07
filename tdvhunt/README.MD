@@ -16,7 +16,7 @@ tdvhunt is a script to perform post exploitation (privilege escalation & credent
 
 # Feature
 
-- Find juicy file direcotry - the script will find files with extensions .txt,.ini,.cfg,.config,.xml,.git,.ps1,.yml, .pptx,.log,.pdf,.xls,.xlsx,.doc,.docx,.txt,.ini,.exe,.kdbx,.rdp,.vnc,.cred,id\_rsa,id\_ecdsa . search those file maybe there is credential
+- Find juicy file direcotry - the script will find files with extensions .txt,.ini,.cfg,.config,.xml,.git,.ps1,.yml, .pptx,.log,.pdf,.xls,.xlsx,.doc,.docx,.txt,.ini,.exe,.kdbx,.rdp,.vnc,.cred,id\_rsa,id\_ecdsa . those files maybe contains credential
 - Show powershell history - the script will read powershell history for all user
 - Find file that contain a string - the script will find file that contain a string in entire C:\\ directory
 - Show all wifi password - the script will extract stored wifi password. there is a chance a user reuse their wifi's password
