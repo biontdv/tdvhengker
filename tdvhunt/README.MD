@@ -6,7 +6,7 @@ tdvhunt is a script to perform post exploitation (privilege escalation & credent
 
 # How to Use
 
-1.  transfer and extract the zip file to the target machine.
+1.  transfer and extract the zip file to the target machine (don't forget to disable windows defender 😜).
 2.  edit the first two line in tdvhunt.ps1. what string do you want to search for? and in which directory you want to search?  
 3.  run the tdvhunt.ps1 in powershell (run as admin for credential hunting).
 `. .\tdvhunt.ps1`
