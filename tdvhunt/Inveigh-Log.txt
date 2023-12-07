@@ -1,0 +1,118 @@
+[*] Inveigh 2.0.10 [Started 2023-12-06T17:40:35 | PID 8340]
+[+] Packet Sniffer Addresses [IP 172.28.14.47 | IPv6 fe80::e966:6412:21f7:5cee%11]
+[+] Listener Addresses [IP 0.0.0.0 | IPv6 ::]
+[+] Spoofer Reply Addresses [IP 172.28.14.47 | IPv6 fe80::e966:6412:21f7:5cee%11]
+[+] Spoofer Options [Repeat Enabled | Local Attacks Disabled]
+[ ] DHCPv6
+[+] DNS Packet Sniffer [Type A]
+[ ] ICMPv6
+[+] LLMNR Packet Sniffer [Type A]
+[ ] MDNS
+[ ] NBNS
+[+] HTTP Listener [HTTPAuth NTLM | WPADAuth NTLM | Port 80]
+[ ] HTTPS
+[+] WebDAV [WebDAVAuth NTLM]
+[ ] Proxy
+[+] LDAP Listener [Port 389]
+[+] SMB Packet Sniffer [Port 445]
+[+] File Output [C:\Users\kindred\Documents\tdvhunt]
+[+] Previous Session Files (Not Found)
+[*] Press ESC to enter/exit interactive console
+[*] Inveigh 2.0.10 [Started 2023-12-06T17:45:47 | PID 1592]
+[+] Packet Sniffer Addresses [IP 172.28.14.47 | IPv6 fe80::e966:6412:21f7:5cee%11]
+[+] Listener Addresses [IP 0.0.0.0 | IPv6 ::]
+[+] Spoofer Reply Addresses [IP 172.28.14.47 | IPv6 fe80::e966:6412:21f7:5cee%11]
+[+] Spoofer Options [Repeat Enabled | Local Attacks Disabled]
+[ ] DHCPv6
+[+] DNS Packet Sniffer [Type A]
+[ ] ICMPv6
+[+] LLMNR Packet Sniffer [Type A]
+[ ] MDNS
+[ ] NBNS
+[+] HTTP Listener [HTTPAuth NTLM | WPADAuth NTLM | Port 80]
+[ ] HTTPS
+[+] WebDAV [WebDAVAuth NTLM]
+[ ] Proxy
+[+] LDAP Listener [Port 389]
+[+] SMB Packet Sniffer [Port 445]
+[+] File Output [C:\Users\kindred\Documents\tdvhunt]
+[+] Previous Session Files [Imported]
+[*] Press ESC to enter/exit interactive console
+[ ] [17:46:51] mDNS(QM)(ANY) request [nightcrow.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:46:51] mDNS(QM)(ANY) request [nightcrow.local] from 172.28.0.1 [disabled]
+[ ] [17:47:00] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:00] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:00] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:00] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:01] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:01] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:01] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:01] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:03] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:03] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:03] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:03] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:12] mDNS(QM)(ANY) request [nightcrow.local] from 172.28.0.1 [disabled]
+[ ] [17:47:12] mDNS(QM)(ANY) request [nightcrow.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:12] mDNS(QM)(ANY) request [nightcrow.local] from 172.28.0.1 [disabled]
+[ ] [17:47:12] mDNS(QM)(ANY) request [nightcrow.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:12] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:12] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:12] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:12] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:13] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:13] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:13] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:13] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:13] mDNS(QM)(ANY) request [nightcrow.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:13] mDNS(QM)(ANY) request [nightcrow.local] from 172.28.0.1 [disabled]
+[ ] [17:47:13] mDNS(QM)(ANY) request [nightcrow.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:13] mDNS(QM)(ANY) request [nightcrow.local] from 172.28.0.1 [disabled]
+[ ] [17:47:16] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:16] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:16] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:16] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:17] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:17] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:17] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:17] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:22] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:22] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:22] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:22] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:23] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:23] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:23] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:23] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:25] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:25] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:25] mDNS(QM)(PTR) request [_googlecast._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:25] mDNS(QM)(PTR) request [_googlecast._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:57] mDNS(QM)(PTR) request [_microsoft_mcc._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:57] mDNS(QM)(PTR) request [_microsoft_mcc._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:47:58] mDNS(QM)(PTR) request [_microsoft_mcc._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:47:58] mDNS(QM)(PTR) request [_microsoft_mcc._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[*] Inveigh 2.0.10 [Started 2023-12-06T17:49:35 | PID 7676]
+[+] Packet Sniffer Addresses [IP 172.28.14.47 | IPv6 fe80::e966:6412:21f7:5cee%11]
+[+] Listener Addresses [IP 0.0.0.0 | IPv6 ::]
+[+] Spoofer Reply Addresses [IP 172.28.14.47 | IPv6 fe80::e966:6412:21f7:5cee%11]
+[+] Spoofer Options [Repeat Enabled | Local Attacks Disabled]
+[ ] DHCPv6
+[+] DNS Packet Sniffer [Type A]
+[ ] ICMPv6
+[+] LLMNR Packet Sniffer [Type A]
+[ ] MDNS
+[ ] NBNS
+[+] HTTP Listener [HTTPAuth NTLM | WPADAuth NTLM | Port 80]
+[ ] HTTPS
+[+] WebDAV [WebDAVAuth NTLM]
+[ ] Proxy
+[+] LDAP Listener [Port 389]
+[+] SMB Packet Sniffer [Port 445]
+[+] File Output [C:\Users\kindred\Documents\tdvhunt]
+[+] Previous Session Files [Imported]
+[*] Press ESC to enter/exit interactive console
+[ ] [17:52:59] mDNS(QM)(PTR) request [_microsoft_mcc._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:52:59] mDNS(QM)(PTR) request [_microsoft_mcc._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
+[ ] [17:53:00] mDNS(QM)(PTR) request [_microsoft_mcc._tcp.local] from 172.28.0.1 [disabled]
+[ ] [17:53:00] mDNS(QM)(PTR) request [_microsoft_mcc._tcp.local] from fe80::47e0:31b8:5658:7969%11 [disabled]
